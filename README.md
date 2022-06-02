@@ -5,7 +5,7 @@ conda create -n structcoder --file structcoder.yml <br>
 conda activate structcoder
 
 ## Download pretrained checkpoint:
-mkdir -p saved_models/pretrain/checkpoint-12000
+mkdir -p saved_models/pretrain/checkpoint-12000 <br>
 Download the pretrained model weights from [here](https://drive.google.com/drive/folders/1cyvtmZjaLc1OwlnU0_N_GwC_eAs5snf9?usp=sharing) and place it under saved_models/pretrain/checkpoint-12000/
 
 ## Finetune on translation:
