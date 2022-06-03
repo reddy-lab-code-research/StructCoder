@@ -1,0 +1,4 @@
+Some codes in this repository have been borrowed/adapted from the following sources:
+https://github.com/microsoft/CodeBERT/tree/master/GraphCodeBERT
+https://github.com/huggingface/transformers
+https://github.com/microsoft/CodeXGLUE/tree/main/Code-Code/code-to-code-trans/evaluator/CodeBLEU
