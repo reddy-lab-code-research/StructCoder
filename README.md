@@ -1,4 +1,5 @@
 # StructCoder
+Official implementation of [StructCoder: Structure-Aware Transformer for Code Generation](https://arxiv.org/abs/2206.05239)
 
 ## Setup the conda enviroment:
 conda create -n structcoder --file structcoder.yml <br>
